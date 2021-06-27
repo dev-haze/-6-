@@ -1,0 +1,7 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=E6C2486245C3119E82961F826BB6C318
+ProjectName=Side Scroller BP Game Template
+
+[StartupActions]
+bAddPacks=True
+InsertPack=(PackSource="StarterContent.upack",PackName="StarterContent")
